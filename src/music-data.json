@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Die With A Smile",
+    "artist": "Lady Gaga, Bruno Mars",
+    "cover": "image/angel-and-devil.jpg",
+    "file": "music/Lady Gaga, Bruno Mars - Die With A Smile.mp3"
+  },
+  {
+    "id": 2,
+    "title": "Born To Die",
+    "artist": "Lana Del Rey",
+    "cover": "image/angel3.jpg",
+    "file": "music/Lana Del Rey - Born To Die.mp3"
+  },
+  {
+    "id": 3,
+    "title": "Cinnamon Girl",
+    "artist": "Lana Del Rey",
+     "cover": "image/angel3.jpg",
+    "file": "music/Lana Del Rey - Cinnamon Girl.mp3"
+  },
+  {
+    "id": 4,
+    "title": "Young and Beautiful",
+    "artist": "Lana Del Rey",
+     "cover": "image/angel3.jpg",
+    "file": "music/Lana Del Rey - Young and Beautiful.mp3"
+  },
+  {
+    "id": 5,
+    "title": "West Coast",
+    "artist": "Lana Del Rey",
+     "cover": "image/angel3.jpg",
+    "file": "music/Lana Del Rey- West Coast.mp3"
+  },
+  {
+    "id": 6,
+    "title": "Diet Mountain Dew",
+    "artist": "Lana Del Rey",
+     "cover": "image/angel3.jpg",
+    "file": "music/Lana Del Rey-Diet Mountain Dew.mp3"
+  },
+  {
+    "id": 7,
+    "title": "Say Yes To Heaven",
+    "artist": "Lana Del Rey",
+     "cover": "image/angel3.jpg",
+    "file": "music/Lana Del Rey-Say Yes To Heaven.mp3"
+  },
+  {
+    "id": 8,
+    "title": "The Machine",
+    "artist": "Reed Wonder, Aurora Olivas",
+    "cover": "image/angel2.avif",
+    "file": "music/Reed Wonder, Aurora Olivas - The Machine.mp3"
+  },
+  {
+    "id": 9,
+    "title": "Ride Or Die Pt. 2",
+    "artist": "Sevdaliza",
+    "cover": "image/queen.avif",
+    "file": "music/Sevdaliza - Ride Or Die Pt. 2.mp3"
+  }
+]
